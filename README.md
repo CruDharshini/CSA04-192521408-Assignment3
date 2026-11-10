@@ -1,6 +1,6 @@
 # Operating Systems Assignment 3 (CO3)
 
-**Student:** Dharshini  
+**Name:** Dharshini  
 **Register Number:** 192521408  
 **Repository:** https://github.com/CruDharshini/CSA04-192521408-Assignment3
 
