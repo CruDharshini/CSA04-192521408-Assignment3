@@ -21,4 +21,3 @@
 | Q6 Disk management | Task06/commands.md, disk_evidence.sh | `sh Task06/disk_evidence.sh` (read-only; sudo may prompt) |
 | Q7 Memory plan | Task07/mlock_demo.c, memory_plan_sim.py | See Task07/README.md |
 
-**Important:** Run every task yourself on your Linux/WSL system, capture terminal screenshots and add measured results. Sample outputs and theoretical calculations in the report must be identified separately from your own measurements.
